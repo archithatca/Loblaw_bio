@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+loblaw_bio.db
+outputs/
+.venv/
