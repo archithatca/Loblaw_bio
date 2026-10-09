@@ -46,6 +46,7 @@ so a result is judged on size as well as significance.
 Baseline = `time_from_treatment_start = 0`. Samples are counted per project; responders/
 non-responders and males/females are counted as distinct subjects.
 
-
+#Interactive dashboard
+Live deployed app using Streamlit link: https://loblawbio-6spcjf3uka7chbh5jzkm6c.streamlit.app/
 
 
